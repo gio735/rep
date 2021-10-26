@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reports>
+  <report>
+    <id>1</id>
+    <ownerId>2</ownerId>
+    <content>this is first test report</content>
+    <creationDate>unknown</creationDate>
+    <gradeTaken>10</gradeTaken>
+    <targetId>1</targetId>
+  </report>
+  <report>
+    <id>2</id>
+    <ownerId>2</ownerId>
+    <content>2 + 2 = 4
+
+4 + 4 = 8</content>
+    <creationDate>10/26/2021 8:39:41 PM</creationDate>
+    <gradeTaken>10</gradeTaken>
+    <targetId>3</targetId>
+  </report>
+</reports>

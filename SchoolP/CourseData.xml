@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<courses>
+  <course>
+    <name>C#</name>
+    <teacherId>1</teacherId>
+    <students>
+      <studentId>3</studentId>
+      <studentId>4</studentId>
+      <studentId>5</studentId>
+      <studentId>6</studentId>
+      <studentId>17</studentId>
+      <studentId>2</studentId>
+    </students>
+  </course>
+  <courses>
+    <name>C#</name>
+    <teacherId>5</teacherId>
+    <students>
+      <studentId>6</studentId>
+      <studentId>7</studentId>
+      <studentId>8</studentId>
+      <studentId>15</studentId>
+      <studentId>16</studentId>
+    </students>
+  </courses>
+  <courses>
+    <name>C++</name>
+    <teacherId>9</teacherId>
+    <students />
+  </courses>
+  <courses>
+    <name>Python</name>
+    <teacherId>10</teacherId>
+    <students />
+  </courses>
+  <courses>
+    <name>Java</name>
+    <teacherId>11</teacherId>
+    <students />
+  </courses>
+  <courses>
+    <name>JavaScript</name>
+    <teacherId>12</teacherId>
+    <students />
+  </courses>
+  <courses>
+    <name>Free Pascal</name>
+    <teacherId>13</teacherId>
+    <students />
+  </courses>
+  <courses>
+    <name>OCaml</name>
+    <teacherId>14</teacherId>
+    <students />
+  </courses>
+  <courses>
+    <name>Python</name>
+    <teacherId>18</teacherId>
+    <students />
+  </courses>
+</courses>

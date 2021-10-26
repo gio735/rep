@@ -1,0 +1,15 @@
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.csproj.AssemblyReference.cache
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.Properties.Resources.resources
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.csproj.GenerateResource.cache
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.csproj.CoreCompileInputs.cache
+C:\Users\torni\source\repos\SchoolP\SchoolP\bin\Debug\SchoolP.exe.config
+C:\Users\torni\source\repos\SchoolP\SchoolP\bin\Debug\SchoolP.exe
+C:\Users\torni\source\repos\SchoolP\SchoolP\bin\Debug\SchoolP.pdb
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.exe
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.pdb
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.AdminForm.resources
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.Form1.resources
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.LoggedFormStudent.resources
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.LoggedTeacher.resources
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.TeacherHomeworkForm.resources
+C:\Users\torni\source\repos\SchoolP\SchoolP\obj\Debug\SchoolP.StudentReportForm.resources

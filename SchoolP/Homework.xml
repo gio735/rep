@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<homeworks>
+  <homework>
+    <id>2</id>
+    <teacherId>1</teacherId>
+    <name>homework test 1</name>
+    <content>homework test 1 but 2nd homework total.</content>
+    <creationDate>10/25/2021 8:58:19 PM</creationDate>
+    <status>valid</status>
+  </homework>
+  <homework>
+    <id>3</id>
+    <teacherId>1</teacherId>
+    <name>Ez math</name>
+    <content>2 + 2 = ?
+4 + 4 = ?</content>
+    <creationDate>10/26/2021 8:34:36 PM</creationDate>
+    <status>valid</status>
+  </homework>
+</homeworks>

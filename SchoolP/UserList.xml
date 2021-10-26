@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <user>
+    <id>-1</id>
+    <username>adminus</username>
+    <name>L</name>
+    <lastname>Lawliet</lastname>
+    <password>L</password>
+    <status>HC</status>
+    <course>All</course>
+    <grades>
+    </grades>
+  </user>
+  <user>
+    <id>1</id>
+    <username>samkha</username>
+    <name>Luka</name>
+    <lastname>Samkharadze</lastname>
+    <password>lukaluka2002</password>
+    <status>Teacher</status>
+    <course>C#</course>
+    <grades>
+    </grades>
+  </user>
+  <user>
+    <id>2</id>
+    <username>gioseturi</username>
+    <name>Gio</name>
+    <lastname>Seturi</lastname>
+    <password>giogio</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades>
+      <grade>10</grade>
+      <grade>10</grade>
+      <grade>8</grade>
+      <grade>9</grade>
+      <grade>8</grade>
+      <grade>7</grade>
+      <grade>10</grade>
+      <grade>20</grade>
+      <grade>10</grade>
+      <grade>10</grade>
+      <grade>5</grade>
+      <grade>15</grade>
+    </grades>
+  </user>
+  <user>
+    <id>3</id>
+    <username>sabadelibashvili</username>
+    <name>Saba</name>
+    <lastname>Delibashvili</lastname>
+    <password>saba</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades>
+      <grade>10</grade>
+      <grade>10</grade>
+      <grade>9</grade>
+      <grade>8</grade>
+      <grade>4</grade>
+      <grade>8</grade>
+      <grade>8</grade>
+      <grade>7</grade>
+      <grade>9</grade>
+      <grade>10</grade>
+      <grade>10</grade>
+      <grade>15</grade>
+      <grade>15</grade>
+    </grades>
+  </user>
+  <user>
+    <id>4</id>
+    <username>c# test</username>
+    <name>c</name>
+    <lastname>c</lastname>
+    <password>c</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades>
+      <grade>10</grade>
+      <grade>10</grade>
+      <grade>7</grade>
+      <grade>12</grade>
+      <grade>12</grade>
+      <grade>10</grade>
+      <grade>10</grade>
+      <grade>10</grade>
+      <grade>15</grade>
+    </grades>
+  </user>
+  <user>
+    <id>5</id>
+    <username>c#teacher1</username>
+    <name>C</name>
+    <lastname>Sharper</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>C#</course>
+    <grades />
+  </user>
+  <user>
+    <id>6</id>
+    <username>newstud1</username>
+    <name>gs</name>
+    <lastname>ts</lastname>
+    <password>1</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades />
+  </user>
+  <user>
+    <id>7</id>
+    <username>fsaf</username>
+    <name>a</name>
+    <lastname>d</lastname>
+    <password>2</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades />
+  </user>
+  <user>
+    <id>8</id>
+    <username>stc#2</username>
+    <name>ras</name>
+    <lastname>sar</lastname>
+    <password>a</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades />
+  </user>
+  <user>
+    <id>9</id>
+    <username>c++teacher</username>
+    <name>c+</name>
+    <lastname>+</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>c+ +</course>
+    <grades />
+  </user>
+  <user>
+    <id>10</id>
+    <username>Pyoneer</username>
+    <name>pyt</name>
+    <lastname>hoon</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>pyt hoon</course>
+    <grades />
+  </user>
+  <user>
+    <id>11</id>
+    <username>Java</username>
+    <name>Jav</name>
+    <lastname>alus</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>Jav alus</course>
+    <grades />
+  </user>
+  <user>
+    <id>12</id>
+    <username>JavaScriptts</username>
+    <name>javan</name>
+    <lastname>Scrip</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>javan Scrip</course>
+    <grades />
+  </user>
+  <user>
+    <id>13</id>
+    <username>frepasc</username>
+    <name>free</name>
+    <lastname>pascus</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>free pascus</course>
+    <grades />
+  </user>
+  <user>
+    <id>14</id>
+    <username>ocmal</username>
+    <name>oc</name>
+    <lastname>mall</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>oc mall</course>
+    <grades />
+  </user>
+  <user>
+    <id>15</id>
+    <username>gsaga</username>
+    <name>ag</name>
+    <lastname>sa</lastname>
+    <password>1</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades />
+  </user>
+  <user>
+    <id>16</id>
+    <username>asgaz</username>
+    <name>2</name>
+    <lastname>1</lastname>
+    <password>1</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades />
+  </user>
+  <user>
+    <id>17</id>
+    <username>agaas</username>
+    <name>2</name>
+    <lastname>3</lastname>
+    <password>1</password>
+    <status>Student</status>
+    <course>C#</course>
+    <grades />
+  </user>
+  <user>
+    <id>18</id>
+    <username>pyteacher1</username>
+    <name>fa</name>
+    <lastname>saf</lastname>
+    <password>1</password>
+    <status>Teacher</status>
+    <course>fa saf</course>
+    <grades />
+  </user>
+</Users>
